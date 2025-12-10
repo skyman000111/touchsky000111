@@ -4,7 +4,7 @@
 - 🌱 Bᴜɪʟᴛ ꜱᴇᴠᴇʀᴀʟ ꜱɪɢɴɪғɪᴄᴀɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ ʙᴀꜱᴇᴅ ᴏɴ Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ ɴᴇᴛᴡᴏʀᴋ. 
 - 💼 Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ AI Aɢᴇɴᴛꜱ ᴏɴ Sᴏʟᴀɴᴀ, Aʟꜱᴏ ᴡᴏʀᴋɪɴɢ ᴏɴ Bᴜɪʟᴅɪɴɢ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ, Rᴀғғʟᴇ, Aᴜᴄᴛɪᴏɴ Tᴏᴏʟꜱ ᴏɴ Bɪᴛᴄᴏɪɴ.
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
-<p> 
+<!-- <p> 
     <a href="https://x.com/touchsky000111" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://discordapp.com/users/377888885461483530" target="_blank"><img alt="Discord"
@@ -15,4 +15,4 @@
         <img alt="Teams"
             src="https://img.shields.io/badge/teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
     </a>
-</p>
+</p> -->
