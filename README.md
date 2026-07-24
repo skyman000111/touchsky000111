@@ -1,11 +1,12 @@
-#### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
+#### ⛏ What I'm Doing
 
-- ✍ 𝗳𝗼𝗰𝘂𝘀𝗶𝗻𝗴 𝗼𝗻 𝗳𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸, Automation 𝗮𝗻𝗱 𝘄𝗲𝗯3 (𝗦𝗼𝗹𝗮𝗻𝗮 𝗮𝗻𝗱 𝗘𝘁𝗵𝗲𝗿𝗲𝘂𝗺) 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
-- 🌱 Bᴜɪʟᴛ ꜱᴇᴠᴇʀᴀʟ ꜱɪɢɴɪғɪᴄᴀɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ ʙᴀꜱᴇᴅ ᴏɴ Sᴏʟᴀɴᴀ, Bɪᴛᴄᴏɪɴ ɴᴇᴛᴡᴏʀᴋ. 
-- 💼 Nᴏᴡ Bᴜɪʟᴅɪɴɢ Bᴇꜱᴛ AI Aɢᴇɴᴛꜱ ᴏɴ Sᴏʟᴀɴᴀ, Aʟꜱᴏ ᴡᴏʀᴋɪɴɢ ᴏɴ Bᴜɪʟᴅɪɴɢ Mᴀʀᴋᴇᴛᴘʟᴀᴄᴇ, Rᴀғғʟᴇ, Aᴜᴄᴛɪᴏɴ Tᴏᴏʟꜱ ᴏɴ Bɪᴛᴄᴏɪɴ.
+- 🤖 Focusing on AI Engineering, AI Agents, LLM Applications, Automation, and Full-Stack Development.
+- 🧠 Building production-ready AI systems powered by LLMs, RAG, multi-agent workflows, voice AI, and intelligent automation.
+- 🌐 Developing AI-powered products integrated with Web3 ecosystems, especially Solana and Ethereum, alongside scalable cloud-native backends.
+- 🚀 Currently building autonomous AI agents, enterprise AI automation platforms, and next-generation AI products that solve real business problems.
 
 
-<!-- <p> 
+<p> 
     <a href="https://x.com/touchsky000111" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://discordapp.com/users/377888885461483530" target="_blank"><img alt="Discord"
@@ -16,4 +17,4 @@
         <img alt="Teams"
             src="https://img.shields.io/badge/teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
     </a>
-</p> -->
+</p> 
